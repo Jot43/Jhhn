@@ -218,7 +218,7 @@ class WZMLStyle:
 
     ###--------BUTTONS-------
     PREVIOUS = '👈'
-    REFRESH = '@𝙽𝚘𝚛𝚍𝙱𝚘𝚝𝚣\n{Page}'
+    REFRESH = 'ђ๏๓єɭคภ๔єr\s\n{Page}'
     NEXT = '👉'
     # ---------------------
 
